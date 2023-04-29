@@ -1,5 +1,5 @@
 ### Hi there! I'm Dmitry 👋
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/3SL41WtN5l9DNdPJGs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></div><p><a href="https://giphy.com/gifs/thecodingspacerd-coder-letscode-thecodingspace-3SL41WtN5l9DNdPJGs">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/3SL41WtN5l9DNdPJGs](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZiOGIwYmVmOGUyOTVmYThhMTNkYTEzOTk2NTIxZTJlMGJmNjdlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXRz/3SL41WtN5l9DNdPJGs/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></div><p><a href="https://giphy.com/gifs/thecodingspacerd-coder-letscode-thecodingspace-3SL41WtN5l9DNdPJGs">via GIPHY</a></p>
 <!--
 **stukateev/stukateev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
