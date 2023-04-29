@@ -1,10 +1,19 @@
 ### Hi there! I'm Dmitry 👋
-<div style="width: 100%" ><img src="https://i.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.webp" height="300px" style="margin-left: auto; margin-right: auto;" frameBorder="0" class="giphy-embed" /></div>
+<div style="width: 100%" align="center" >
+  <img  src="https://i.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.webp" height="300px"  frameBorder="0" class="giphy-embed" />
+</div>
 <h3 dir="auto"><a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;Tech Stack</h3>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width: 100%;"></a>&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>&nbsp;
-<br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" style="max-width: 100%;"></a>&nbsp;
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.python.org/">
+   <img src="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width: 100%;">
+  </a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
+    <img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;">
+  </a>&nbsp;
+  <br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/">
+    <img src="https://camo.githubusercontent.com/0dbdbda9b41b77beb88c3a54e5da74ae7632c0683b09536f78bcc146258be5fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" style="max-width: 100%;">
+  </a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73"><img src="https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1a3d592707d940e585ac708278cf93823ccf24115714e2b90d27165c2abac401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743"><img src="https://camo.githubusercontent.com/1a3d592707d940e585ac708278cf93823ccf24115714e2b90d27165c2abac401/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" style="max-width: 100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"><img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width: 100%;"></a>&nbsp;
@@ -16,26 +25,32 @@
 </p>
 
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=stukateev&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=stukateev&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true" />
-</picture>
 
+<div width="100%">
+  <picture width="50%">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=stukateev&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=stukateev&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true" />
+  </picture> 
+  <img  width="30%" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" data-target="animated-image.originalImage">
+</div>
+<a href="https://t.me/active_idler" target="blank">
+  <img src="https://img.shields.io/badge/-@active_idler-E4405F?style=for-the-badge&logo=Telegram&logoColor=white&color=blue" data-canonical-src="https://img.shields.io/badge/-@stukateev-E4405F?style=for-the-badge&logo=Telegram&logoColor=white&color=blue" style="max-width: 100%;">
+</a>
 
 <!--
 **stukateev/stukateev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
