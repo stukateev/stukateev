@@ -1,6 +1,8 @@
-
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <div class="container"> 
-<h1>Hi there! I'm Dmitry 👋</h1>
+
   <div style="width: 100%" align="center" >
   <img  src="https://rb.ru/media/upload_tmp/b4u0fns.gif" width="80%"  />
 </div>

@@ -1,0 +1,15 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                --color-main: #5452ee;
+                --color-primary: #e73c7e;
+                --color-secondary: #23a6d5;
+                --color-tertiary: #ffff;
+                }
+            </style>
+        </div>
+    </foreignObject>
+    <h1>Hi there! I'm Dmitry 👋</h1>
+</svg>
