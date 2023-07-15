@@ -1,5 +1,7 @@
-### Hi there! I'm Dmitry 👋
-<div style="width: 100%" align="center" >
+
+<div class="container"> 
+<h1>Hi there! I'm Dmitry 👋</h1>
+  <div style="width: 100%" align="center" >
   <img  src="https://rb.ru/media/upload_tmp/b4u0fns.gif" width="80%"  />
 </div>
 <h3 dir="auto">
@@ -29,14 +31,14 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/966a757a009136e1d6dbc91295ace7708f800e0d4060a98f6b32c19e8ce7158d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3035313232413f7374796c653d666c6174266c6f676f3d6d61726b646f776e"><img src="https://camo.githubusercontent.com/966a757a009136e1d6dbc91295ace7708f800e0d4060a98f6b32c19e8ce7158d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3035313232413f7374796c653d666c6174266c6f676f3d6d61726b646f776e" alt="Markdown" data-canonical-src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" style="max-width: 100%;"></a><br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;"></a>&nbsp;
   </p>
-  <img alt="Night Coding" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif"  object_fit="cover" height="200px" align="right" data-target="animated-image.originalImage">
+
   
 </div>
 
 <h3 dir="auto"><a id="user-content-️-github-analytics" class="anchor" aria-hidden="true" href="#️-github-analytics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> &nbsp;GitHub Analytics
 </h3>
 <div width="100%" height="300px" >
-  <picture width="50%">
+  <picture width="50%" height="300px">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -53,14 +55,17 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=stukateev&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true" />
+    <img  width= "40%" src="https://github-readme-stats.vercel.app/api?username=stukateev&show_icons=true" />
     
   </picture> 
+    <img width="50%" object-fit="cover" alt="Night Coding" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif"  object_fit="cover" align="right" data-target="animated-image.originalImage">
 </div>
 <h3 dir="auto"><a id="user-content--connect-with-me" class="anchor" aria-hidden="true" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🤝🏻 &nbsp;Connect with Me</h3>
 <a href="https://t.me/active_idler" target="blank">
   <img src="https://img.shields.io/badge/-@active_idler-E4405F?style=for-the-badge&logo=Telegram&logoColor=white&color=blue" data-canonical-src="https://img.shields.io/badge/-@stukateev-E4405F?style=for-the-badge&logo=Telegram&logoColor=white&color=blue" style="max-width: 100%;">
 </a>
+
+</div>
 
 <!--
 **stukateev/stukateev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
