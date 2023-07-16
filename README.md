@@ -1,6 +1,8 @@
 
 <div class="container"> 
-
+  <div style="width: 100%;">
+    <h1 style="font-size: 130px; "  align="center" >Hi there! I'm Dmitry 👋</h1>
+  </div>
   <div style="width: 100%" align="center" >
   <img  src="https://rb.ru/media/upload_tmp/b4u0fns.gif" width="80%"  />
 </div>
